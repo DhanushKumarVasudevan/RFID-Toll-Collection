@@ -1,0 +1,6 @@
+Front (top side) placement file: 'C:\Users\jeeva\AppData\Local\Temp\60053e45-73f5-41e6-85b4-5a3e11169d0d_rfid.zip.d0d\rfid\rfid-top-pos.csv'.
+Info: Component count: 19.
+Back (bottom side) placement file: 'C:\Users\jeeva\AppData\Local\Temp\60053e45-73f5-41e6-85b4-5a3e11169d0d_rfid.zip.d0d\rfid\rfid-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 19.
+Info: Done.
